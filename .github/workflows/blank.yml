@@ -37,7 +37,7 @@ jobs:
         copy "Visual Studio 2019.lnk" "C:\Users\Public\Desktop\Visual Studio 2019.lnk"
     - name: Bağlantı Tüneli Oluşturuluyor
       run: Start-Process Powershell -ArgumentList '-Noexit -Command ".\ngrok\ngrok.exe tcp --region ap 3389"'
-    - name: VDS'inize Bağlanın!
+    - name: VDSinize Bağlanın!
       run: cmd /c start.bat
     - name: Başarıyla Oluşturuldu! Sekmeleri Kapatabilirsiniz!
       run: cmd /c loop.bat
