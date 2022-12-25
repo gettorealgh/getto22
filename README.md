@@ -1,3 +1,3 @@
-# gettoVDS / 20.11.2022 Kontrol Edilmiştir!
-Youtube / youtube.com/gettovds
+# gettoVDS / 25.12.2022 Kontrol Edilmiştir!
+Youtube / youtube.com/gettovds - youtube.com/@gettoreal
 Discord / discord.gg/dTVyJAtsnt
